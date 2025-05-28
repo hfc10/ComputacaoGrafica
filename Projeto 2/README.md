@@ -9,7 +9,7 @@ Video final: https://youtu.be/Nu8JwzeCL4k
 
 
 ### 1️⃣ Inversão de Imagem  
-A cada 20 segundos, a imagem do vídeo é invertida horizontalmente, criando um efeito visual dinâmico.
+A cada 20 segundos, a imagem do vídeo é invertida horizontalmente.
 
 ---
 
@@ -24,5 +24,5 @@ Após o primeiro minuto (60 segundos), o vídeo é cortado, removendo o trecho e
 ---
 
 ### 4️⃣ Reordenação dos Clipes  
-Os 20 segundos cortados anteriormente são inseridos no final do vídeo, reorganizando a sequência original.
+Os 20 segundos cortados anteriormente são inseridos no final do vídeo.
 
